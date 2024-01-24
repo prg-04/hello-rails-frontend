@@ -120,7 +120,7 @@ To run tests, run the following command:
 
 - GitHub: [@githubhandle](https://github.com/prg-04)
 - Twitter: [@twitterhandle](https://twitter.com/Evans1425Sean)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/evanson-karanja-3549841b8/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/evanson-karanja/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

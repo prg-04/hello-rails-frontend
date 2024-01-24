@@ -1,1 +1,1 @@
-# hello-rails-frontend
+# hello-react-frontend
